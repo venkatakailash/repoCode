@@ -7,8 +7,4 @@ Hi, Kailash. And my full name is Tanniru venkata kailash.
 Currently, I am staying in Bangalore.
 
 
-
-
-
-
-
+Modifying in the local repository.
